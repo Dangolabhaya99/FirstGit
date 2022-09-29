@@ -13,6 +13,10 @@
 # else:
 #     print(year, "is not a leap year.")
 
+year=int(input("Enter any year:"))
+if(year%4==0)
+
+
 # Write a program to accept a number from 1 to 7 and display the name of the day like 1 for Sunday, 7
 # for Saturday.
 # day=int(input("Enter number(1-7):"))
@@ -67,5 +71,3 @@
 #     print("Only(1-12) ")
 # if(month<=0):
 #     print("Only(1-12)")
-
-
